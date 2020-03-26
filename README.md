@@ -1,1 +1,3 @@
-# C-Projects
+# Cpp-Projects
+
+This is nothing special, just a collection of most  of the C++ projects I've done...
